@@ -24,11 +24,11 @@
     <div class="form-group ">
       <div class="row h-50 p-3 " >
         <div class="col-11 d-flex flex-row-reverse" >
-          <input type="date" name="fecha" value="dd-mm-aaaa" >
+          <input type="date" name="fecha" value="dd-mm-aaaa" >etoy en pruebs
           <label>Fecha:</label>
         </div>
       </div>
-      <!--------------------------------------------------------------------------------------->
+      <--------------------------------------------------------------------------------------->
       <div class="row h-50 p-3">
         <div class="col-4">
             <label for="cambio"> Tipo de cambio: </label> 
